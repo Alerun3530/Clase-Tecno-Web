@@ -32,6 +32,12 @@ coverage/
 .DS_Store
 Thumbs.db
 
+# Bases de datos
+*.db
+*.sqlite
+*.sqlite3
+*.sql
+
 # IDEs / editores
 
 .vscode/
